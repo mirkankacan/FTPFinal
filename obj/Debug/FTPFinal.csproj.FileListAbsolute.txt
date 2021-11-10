@@ -1,0 +1,14 @@
+C:\Users\kacan\source\repos\FTPFinal\bin\Debug\FTPFinal.exe.config
+C:\Users\kacan\source\repos\FTPFinal\bin\Debug\FTPFinal.exe
+C:\Users\kacan\source\repos\FTPFinal\bin\Debug\FTPFinal.pdb
+C:\Users\kacan\source\repos\FTPFinal\obj\Debug\FTPFinal.csproj.AssemblyReference.cache
+C:\Users\kacan\source\repos\FTPFinal\obj\Debug\FTPFinal.csproj.CoreCompileInputs.cache
+C:\Users\kacan\source\repos\FTPFinal\obj\Debug\FTPFinal.exe
+C:\Users\kacan\source\repos\FTPFinal\obj\Debug\FTPFinal.pdb
+C:\Users\kacan\Desktop\FTPFinal\obj\Debug\FTPFinal.csproj.AssemblyReference.cache
+C:\Users\kacan\Desktop\FTPFinal\obj\Debug\FTPFinal.csproj.CoreCompileInputs.cache
+C:\Users\kacan\Desktop\FTPFinal\obj\Debug\FTPFinal.exe
+C:\Users\kacan\Desktop\FTPFinal\obj\Debug\FTPFinal.pdb
+C:\Users\kacan\Desktop\FTPFinal\bin\Debug\FTPFinal.exe.config
+C:\Users\kacan\Desktop\FTPFinal\bin\Debug\FTPFinal.exe
+C:\Users\kacan\Desktop\FTPFinal\bin\Debug\FTPFinal.pdb

@@ -12,3 +12,10 @@ C:\Users\kacan\Desktop\FTPFinal\obj\Debug\FTPFinal.pdb
 C:\Users\kacan\Desktop\FTPFinal\bin\Debug\FTPFinal.exe.config
 C:\Users\kacan\Desktop\FTPFinal\bin\Debug\FTPFinal.exe
 C:\Users\kacan\Desktop\FTPFinal\bin\Debug\FTPFinal.pdb
+C:\Users\mirkankacan\Desktop\FTPFinal\bin\Debug\FTPFinal.exe.config
+C:\Users\mirkankacan\Desktop\FTPFinal\bin\Debug\FTPFinal.exe
+C:\Users\mirkankacan\Desktop\FTPFinal\bin\Debug\FTPFinal.pdb
+C:\Users\mirkankacan\Desktop\FTPFinal\obj\Debug\FTPFinal.csprojAssemblyReference.cache
+C:\Users\mirkankacan\Desktop\FTPFinal\obj\Debug\FTPFinal.csproj.CoreCompileInputs.cache
+C:\Users\mirkankacan\Desktop\FTPFinal\obj\Debug\FTPFinal.exe
+C:\Users\mirkankacan\Desktop\FTPFinal\obj\Debug\FTPFinal.pdb

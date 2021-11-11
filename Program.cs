@@ -18,11 +18,11 @@ namespace FTPFinal
           
 
           
-            string username = "pideB0641";
-            string password = "ide30Ffg";
+            string username = "example";
+            string password = "example";
             FileInfo PureFileName = new FileInfo("imsreport.xml");
-            String fileUrl = @"C:\Users\mirkankacan\Desktop\" + PureFileName;
-            String uploadUrl = String.Format("{0}/{1}/{2}", "ftp://ftp.ideaktif.com.tr", "deneme", PureFileName.Name);
+            String fileUrl = @"C:\Users\example\Desktop\" + PureFileName;
+            String uploadUrl = String.Format("{0}/{1}/{2}", "ftp://ftp.example.com", "deneme", PureFileName.Name);
             FtpWebRequest request = null;
             FtpWebResponse response = null ;
             StreamReader sourceStream = null ;

@@ -55,7 +55,7 @@ namespace FTPFinal
 
                 request.Credentials = new NetworkCredential(username, password);
                 request.Proxy = null;
-                request.KeepAlive = true;
+                request.KeepAlive = false;
                 request.UseBinary = true;
                 request.Method = WebRequestMethods.Ftp.UploadFile;
                 
@@ -100,7 +100,7 @@ namespace FTPFinal
 
                     request.Credentials = new NetworkCredential(username, password);
                     request.Proxy = null;
-                    request.KeepAlive = true;
+                    request.KeepAlive = false;
                     request.UseBinary = true;
                     request.Method = WebRequestMethods.Ftp.UploadFile;
 

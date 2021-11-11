@@ -20,14 +20,14 @@ namespace FTPFinal
           
             string username = "example";
             string password = "example";
-            FileInfo PureFileName = new FileInfo("imsreport.xml");
-            String fileUrl = @"C:\Users\example\Desktop\" + PureFileName;
-            String uploadUrl = String.Format("{0}/{1}/{2}", "ftp://ftp.example.com", "deneme", PureFileName.Name);
-            FtpWebRequest request = null;
-            FtpWebResponse response = null ;
-            StreamReader sourceStream = null ;
-            byte[] fileContents = null;
-            Stream requestStream = null;
+            FileInfo PureFileName = new FileInfo("test.txt");
+            String fileUrl = @"C:\Users\example\Desktop\" + PureFileName.Name;
+            String uploadUrl = String.Format("{0}/{1}/{2}", "ftp://ftp.example.com.tr", "examplefolder", PureFileName.Name);
+            FtpWebRequest request;
+            FtpWebResponse response;
+            StreamReader sourceStream;
+            byte[] fileContents;
+            Stream requestStream;
              
 
 

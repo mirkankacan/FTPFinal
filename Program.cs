@@ -20,7 +20,7 @@ namespace FTPFinal
             string username = "";
             string password = "";
             string PureFileName = new FileInfo("example.xml").Name;
-            String fileUrl = @"C:\Users\example\Desktop\" + PureFileName;
+            String fileUrl = @"C:\Users\example\Desktop" + @"\" + PureFileName;
             String uploadUrl = String.Format("{0}/{1}/{2}", "ftp://ftp.example.com", "", "");
             FtpWebRequest request=null;
             FtpWebResponse response=null;
